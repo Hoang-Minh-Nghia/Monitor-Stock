@@ -6,3 +6,4 @@ Step 2: Install Allow CORS: Access-Control-Allow-Origin from https://chrome.goog
 Step 3: Enable Apache in XAMPP, turn on Allow CORS
 Step 4: Move the Stock and COVERED-WARRANT folder to \xampp\fil\htdocs folder
 Step 5: Visiting http://localhost/COVERED-WARRANT to view the Covered warrant and http://localhost/Stock to view stocks
+
